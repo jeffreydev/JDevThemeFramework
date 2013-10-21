@@ -14,3 +14,4 @@ Author URI: http://jeffreydev.com
 /* Includes */
 include_once dirname( __FILE__ ) . '/classes/class-custom-post-type.php';
 include_once dirname( __FILE__ ) . '/classes/class-custom-taxonomy.php';
+include_once dirname( __FILE__ ) . '/classes/class-jdev-shortcodes.php';
